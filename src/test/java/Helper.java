@@ -4,9 +4,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Helper {
 
     public static final String BUTTONSURL = "https://demoqa.com/buttons";
+    public static final String TEXTFIELDURL = "https://demoqa.com/text-box";
+    public static final String FULLNAMEFIELD = "userName";
     public static final String DOUBLECLICKBTN = "doubleClickBtn";
     public static final String CONTEXTCLICKBTN = "rightClickBtn";
-//    public static final String ONECLICKBTN = "Ri7M9]";
+    public static final String ONECLICKBTN = "/html/body/div[2]/div/div/div[2]/div[2]/div[2]/div[3]/button";
 
 
     public static final String ALERTURL = "https://demoqa.com/alerts";
